@@ -7,6 +7,6 @@ directory="negpod_16-2"
 mkdir -p "$directory"
 
 # Move all files created in question 1 to the directory
-mv file1.txt file2.txt file3.txt file4.txt "$directory"/
+mv main.sh Students-list_1023.txt Select-emails.sh student-emails.txt "$directory"/
 
 echo "Files moved to directory: $directory"
