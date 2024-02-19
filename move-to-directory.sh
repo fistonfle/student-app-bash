@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Create directory name based on negpod_id(16) and question number(2)
-directory="negpod_16-2"
+directory="negpod_16-q1"
 
 # Create the directory if it doesn't exist
 mkdir -p "$directory"
