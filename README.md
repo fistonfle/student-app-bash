@@ -11,4 +11,5 @@ chmod +x main.sh select-emails.sh move-to-directory.sh backup-Negpod_16.sh
 -uwimana chantal
 -agnes berko
 -uwera queen
+-sharon mushy
 
