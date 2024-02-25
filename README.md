@@ -16,12 +16,13 @@ chmod +x main.sh select-emails.sh move-to-directory.sh backup-Negpod_16.sh
 1. Students are saved to a file named students-list_1023.txt
 2. All student entered emails are stored in a file named student-emails.txt
 3. Move automatically all 4 files created in a directory using move-to-directory.sh script
+4. Backup the directory to the remote server using backup-Negpod_19.sh script
    
 # contributors
 -Fred Niyonshuti
 -Fiston nshimiyandinze
--Uwimana chantal
+-Chantal Uwimana 
 -Agnes Berko
--Uwera queen
+-Queen WIHOGORA
 -Sharon mushy
 
