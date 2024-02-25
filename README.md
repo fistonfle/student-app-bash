@@ -9,7 +9,7 @@ chmod +x main.sh select-emails.sh move-to-directory.sh backup-Negpod_16.sh
 -Fred Niyonshuti
 -Fiston nshimiyandinze
 -Uwimana chantal
--Agnes berko
+-Agnes Berko
 -Uwera queen
 -Sharon mushy
 
