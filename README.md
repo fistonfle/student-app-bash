@@ -1,4 +1,4 @@
-# student-app-bash
+# application that registers students' details into the ALU registration system
 
 This is student management system in bash
 
