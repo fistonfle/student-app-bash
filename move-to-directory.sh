@@ -10,4 +10,3 @@ mkdir -p "$directory"
 mv main.sh students-list_1023.txt select-emails.sh student-emails.txt "$directory"/
 
 echo "Files moved to directory: $directory"
-
