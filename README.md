@@ -7,9 +7,9 @@ This is student management system in bash
 chmod +x main.sh select-emails.sh move-to-directory.sh backup-Negpod_16.sh
 # contributors
 -Fred Niyonshuti
--fiston nshimiyandinze
--uwimana chantal
--agnes berko
--uwera queen
--sharon mushy
+-Fiston nshimiyandinze
+-Uwimana chantal
+-Agnes berko
+-Uwera queen
+-Sharon mushy
 
