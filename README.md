@@ -18,8 +18,8 @@ chmod +x main.sh select-emails.sh move-to-directory.sh backup-Negpod_16.sh
 3. Move automatically all 4 files created in a directory using move-to-directory.sh script
 4. Backup the directory to the remote server using backup-Negpod_19.sh script
    
-# contributors
-1.Fred Niyonshuti
+# Contributors
+1.Fred Niyonshuti        
 2.Fiston nshimiyandinze
 3.Chantal Uwimana 
 4.Agnes Berko
