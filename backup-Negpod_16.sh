@@ -13,3 +13,4 @@ source_directory="negpod_16-q1"
 rsync -avz -e "sshpass -p $remote_password ssh -o StrictHostKeyChecking=no" "$source_directory" "$remote_username@$remote_host:$remote_directory"
 
 echo "Backup of directory $source_directory completed to remote server."
+
